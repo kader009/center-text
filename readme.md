@@ -1,1 +1,1 @@
-## Here is the solution of verticaly or horizontaly center text
+## Here is the solution of vertically and horizontally centered text.
